@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Sumana";
+  font-weight: 400;
+  src: url(fonts/Sumana-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Sumana-bold";
+  font-weight: bold;
+  src: url(fonts/Sumana-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Rufina";
+  font-weight: 400;
+  src: url(fonts/Rufina-Regular.ttf);
+}
+
+
+@font-face {
+  font-family: "Rufina-bold";
+  font-weight: bold;
+  src: url(fonts/Rufina-Bold.ttf);
+}
+
+body {
+  font-family: "Sumana";
+}
+
+.intro p {
+  font-family: "Rufina";
+}
