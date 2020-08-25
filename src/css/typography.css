@@ -23,10 +23,43 @@
   src: url(fonts/Rufina-Bold.ttf);
 }
 
+@font-face {
+  font-family: "Agane-Regular";
+  font-weight: 400px;
+  src: url(fonts/Aganè55roman.ttf);
+}
+
+@font-face {
+  font-family: "Aeonik";
+  font-weight: 400;
+  src: url(fonts/AeonikTrial-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Moderat";
+  font-weight: 400;
+  src: url(fonts/Moderat-Trial-Regular.otf);
+}
+
+@font-face {
+  font-family: "Moderat-Extended";
+  font-weight: 400;
+  src: url(fonts/Moderat-Trial-Extended-Regular.otf);
+}
+
+
+@font-face {
+  font-family: "Coriolis";
+  font-weight: 400;
+  src: url(fonts/Coriolis_trial-Regular.otf);
+
+}
+
+
 body {
-  font-family: "Sumana";
+  font-family: "Moderat-Extended";
 }
 
 .intro p {
-  font-family: "Rufina";
+  font-family: "Moderat-Extended";
 }
